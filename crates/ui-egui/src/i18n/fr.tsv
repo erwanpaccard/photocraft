@@ -404,7 +404,7 @@
 	Delete Frame	Supprimer l'image
 	Duplicate Frame	Dupliquer l'image
 	Frame from Layers	Image d'après les calques
-	Video Frames to Layers…	Images vidéo dans des calques…
+	Video Frames to Layers…	Images vidéo vers calques…
 	Rasterize	Rastériser
 	Rasterize Type	Rastériser le texte
 	Rasterize Type Layer	Rastériser le calque de texte
@@ -580,7 +580,7 @@
 	Noise	Bruit
 	Add Noise…	Ajout de bruit…
 	Despeckle	Supprimer les mouchetures
-	Dust & Scratches…	Poussière et rayures…
+	Dust & Scratches…	Poussières et rayures…
 	Median…	Médiane…
 	Reduce Noise…	Réduction du bruit…
 	Pixelate	Pixeliser
@@ -4309,7 +4309,7 @@ curves	Smooth	Lisser
 	Wide Sharp	Large et net
 	Wind	Vent
 	Window renderer: {renderer}	Moteur de rendu de la fenêtre : {renderer}
-	Working	En cours
+	Working	Espace de travail
 	Working Cmyk	CMJN de travail
 	Working Gray	Gris de travail
 	Working Rgb	RVB de travail
